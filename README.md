@@ -1,6 +1,6 @@
 # Navegg Back-end Challenge - Create an API
 
-The general purpose is receiving a list of websites, and organize this information to classify and store all the details of the website.  
+The general purpose is receiving a list of websites and organize this information to classify and store all the details of the website.  
 
 ## Briefing  
 The application must import a CSV file and add it to a database. This CSV contains some sites with their URLs and categories. You must develop an API to make a CRUD of these sites after import.
