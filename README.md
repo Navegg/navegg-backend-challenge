@@ -22,6 +22,7 @@ The application must import a CSV file and add it to a database. This CSV contai
  
 ### Bonus points for:
 - We use Django Rest Framework internally, so using this framework in your application is a plus.
+- Write automated tests.
 
 
 ### What we are going to evaluate:
